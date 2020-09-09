@@ -7,6 +7,7 @@
       <change afterPath="$PROJECT_DIR$/_venderboleta.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/includes/headerlogin.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mostrarventa.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/almacen.php" beforeDir="false" afterPath="$PROJECT_DIR$/almacen.php" afterDir="false" />
@@ -141,7 +142,7 @@
       <workItem from="1599455663082" duration="1589000" />
       <workItem from="1599462371383" duration="17344000" />
       <workItem from="1599540852766" duration="38599000" />
-      <workItem from="1599619692554" duration="49555000" />
+      <workItem from="1599619692554" duration="50209000" />
     </task>
     <servers />
   </component>
