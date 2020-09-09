@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a20a3214-b34d-401f-81df-5101734c87b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_mostrarproducto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_mostrarusuarios.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_venderboleta.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/headerlogin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mostrarventa.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/almacen.php" beforeDir="false" afterPath="$PROJECT_DIR$/almacen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscarproducto.php" beforeDir="false" afterPath="$PROJECT_DIR$/buscarproducto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscarusuarios.php" beforeDir="false" afterPath="$PROJECT_DIR$/buscarusuarios.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categoria.php" beforeDir="false" afterPath="$PROJECT_DIR$/categoria.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client.php" beforeDir="false" afterPath="$PROJECT_DIR$/client.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editarproducto.php" beforeDir="false" afterPath="$PROJECT_DIR$/editarproducto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editarusuarios.php" beforeDir="false" afterPath="$PROJECT_DIR$/editarusuarios.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eliminarproducto.php" beforeDir="false" afterPath="$PROJECT_DIR$/eliminarproducto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eliminarusuarios.php" beforeDir="false" afterPath="$PROJECT_DIR$/eliminarusuarios.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mostrarCliente.html" beforeDir="false" afterPath="$PROJECT_DIR$/_mostrarcliente.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mostrarcliente.js" beforeDir="false" afterPath="$PROJECT_DIR$/mostrarcliente.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mostrarproducto.php" beforeDir="false" afterPath="$PROJECT_DIR$/mostrarproducto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mostrarproductos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mostrarproductos.js" beforeDir="false" afterPath="$PROJECT_DIR$/mostrarproductos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mostrarusuarios.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mostrarusuarios.js" beforeDir="false" afterPath="$PROJECT_DIR$/mostrarusuarios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mostrarusuarios.php" beforeDir="false" afterPath="$PROJECT_DIR$/mostrarusuarios.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producto.php" beforeDir="false" afterPath="$PROJECT_DIR$/producto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signin.php" beforeDir="false" afterPath="$PROJECT_DIR$/signin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solousuarios.php" beforeDir="false" afterPath="$PROJECT_DIR$/solousuarios.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuariosolo.php" beforeDir="false" afterPath="$PROJECT_DIR$/usuariosolo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ventas/ventas.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ventas/ventas.js" beforeDir="false" afterPath="$PROJECT_DIR$/hacerventa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ventas/ventas.php" beforeDir="false" afterPath="$PROJECT_DIR$/hacerventa.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1gCquAYXv31lHeE1usLtPWfeoqQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/includes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\robin\robin_development\web_programming\SysDirecom\includes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.mostrarcliente.js">
+    <configuration name="mostrarcliente.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/mostrarcliente.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="client.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/client.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.mostrarcliente.js" />
+        <item itemvalue="PHP Script.test.php" />
+        <item itemvalue="PHP Script.client.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a20a3214-b34d-401f-81df-5101734c87b5" name="Default Changelist" comment="" />
+      <created>1597629141923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597629141923</updated>
+      <workItem from="1597629143062" duration="2920000" />
+      <workItem from="1597714149435" duration="3755000" />
+      <workItem from="1597800278425" duration="159000" />
+      <workItem from="1598061488205" duration="743000" />
+      <workItem from="1598062273515" duration="2485000" />
+      <workItem from="1598065587030" duration="979000" />
+      <workItem from="1598193973666" duration="805000" />
+      <workItem from="1598841545609" duration="470000" />
+      <workItem from="1598879368802" duration="2422000" />
+      <workItem from="1598891071026" duration="158000" />
+      <workItem from="1598891423837" duration="2596000" />
+      <workItem from="1598898803136" duration="3630000" />
+      <workItem from="1598921265873" duration="4187000" />
+      <workItem from="1599015367317" duration="1407000" />
+      <workItem from="1599049487394" duration="5991000" />
+      <workItem from="1599151143636" duration="559000" />
+      <workItem from="1599318580864" duration="16738000" />
+      <workItem from="1599348934637" duration="1211000" />
+      <workItem from="1599357777084" duration="2727000" />
+      <workItem from="1599405145937" duration="660000" />
+      <workItem from="1599405846427" duration="684000" />
+      <workItem from="1599406561330" duration="910000" />
+      <workItem from="1599425545583" duration="9803000" />
+      <workItem from="1599455663082" duration="1589000" />
+      <workItem from="1599462371383" duration="17344000" />
+      <workItem from="1599540852766" duration="38599000" />
+      <workItem from="1599619692554" duration="49555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="133" key="#CLI_Interpreters" timestamp="1598062413956">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="437" y="133" key="#CLI_Interpreters/0.0.1920.1080@0.0.1920.1080" timestamp="1598062413956" />
+    <state x="551" y="120" key="#PHP" timestamp="1598061613189">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="551" y="120" key="#PHP/0.0.1920.1080@0.0.1920.1080" timestamp="1598061613189" />
+    <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599321340369">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599321340369" />
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599686733033">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599686733033" />
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1599662430348">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599662430348" />
+    <state x="637" y="233" key="FileChooserDialogImpl" timestamp="1598062411100">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="637" y="233" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1598062411100" />
+    <state width="1900" height="298" key="GridCell.Tab.0.bottom" timestamp="1599373207272">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1900" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599373207272" />
+    <state width="1900" height="298" key="GridCell.Tab.0.center" timestamp="1599373207272">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1900" height="298" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599373207272" />
+    <state width="1900" height="298" key="GridCell.Tab.0.left" timestamp="1599373207271">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1900" height="298" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599373207271" />
+    <state width="1900" height="298" key="GridCell.Tab.0.right" timestamp="1599373207272">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1900" height="298" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599373207272" />
+    <state x="626" y="249" key="NewPhpClassDialog" timestamp="1599550930299">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="626" y="249" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599550930299" />
+    <state x="764" y="459" key="NewPhpFileDialog" timestamp="1599688466111">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="764" y="459" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599688466111" />
+    <state x="484" y="156" key="SettingsEditor" timestamp="1599654085976">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="484" y="156" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599654085976" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1599615084340">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1599615084340" />
+    <state x="838" y="427" width="367" height="260" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1599015383889">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="838" y="427" width="367" height="260" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1599015383889" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1599466295054">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599466295054" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1599457005419">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599457005419" />
+  </component>
+</project>
